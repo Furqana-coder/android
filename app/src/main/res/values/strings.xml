@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AndroidRemoteAccess</string>
+    <string name="baseUrl">http://192.168.43.89:8080/AndroidRemoteAccess/webapi/</string>
+    <string name="imageUrl">http://192.168.43.89:8080/AndroidRemoteAccess/UploadedImage/</string>
+    <string name="title_activity_home">ActivityHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="FAQ">
+    <h3>How this app is useful?</h3>\n
+<p>The user can upload its phone data using this app and can retrive it whenever it is required</p>\n\n
+
+        <h3>How to upload the files?</h3>\n
+<p>Click on the upload ,select the type of the file and  choose the file by clicking on the Browse button and then click on upload button to upload.</p>\n\n
+
+<h3>How to retrieve the uploaded files?</h3>\n
+ <p>By logging in into another account the user can click on files option to download the file or to delete the data</p>\n\n
+<h3> How to track the location of the phone?</h3>\n
+        <p>After login into the account the location option will give the location of the current phone if we login by another account and click on the location option then it gives the loaction of remote phone</p>
+\n\n<h3>I have another question...</h3>\n
+<p>Please email to admin@gmail.com and I will personally get back to you as quick as I can.</p>\n</string>
+    <string name="contactNo">7090560910</string>
+</resources>

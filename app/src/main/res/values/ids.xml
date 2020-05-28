@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvpassword" type="id" />
+    <item name="tvemail" type="id" />
+    <item name="tvname" type="id" />
+    <item name="txtRegister" type="id" />
+    <item name="tvBrowseError" type="id" />
+</resources>

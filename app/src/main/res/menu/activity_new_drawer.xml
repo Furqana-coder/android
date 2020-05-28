@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_other_files"
+            android:icon="@android:drawable/ic_menu_save"
+            android:title="Files" />
+        <item
+            android:id="@+id/nav_other_location"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="Location" />
+        <item
+            android:id="@+id/nav_other_callLogs"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="Call Logs" />
+        <item
+            android:id="@+id/nav_other_contact"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Contact" />
+        <item
+            android:id="@+id/nav_other_sms"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="SMS" />
+        <item
+            android:id="@+id/nav_other_profile"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="Profile" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu >
+            <item
+                android:id="@+id/nav_other_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_other_logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
+
