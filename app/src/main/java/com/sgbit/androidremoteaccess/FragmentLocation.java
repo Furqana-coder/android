@@ -24,8 +24,6 @@ import cn.pedant.SweetAlert.SweetAlertDialog;
  * A simple {@link Fragment} subclass.
  */
 public class FragmentLocation extends Fragment {
-
-
     public FragmentLocation() {
         // Required empty public constructor
     }
